@@ -5,7 +5,7 @@
 <br>
 
 <a href="https://linkedin.com/in/alfarouq-ibrahim"><img src="https://img.shields.io/badge/LinkedIn-alfarouq--ibrahim-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:alfarwqabrahym116@gmail.com"><img src="https://img.shields.io/badge/Email-alfarwqabrahym116@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="mailto:alfarwqalfa@gmail.com"><img src="https://img.shields.io/badge/Email-alfarwqalfa@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 <a href="https://www.artfolio.tech/AlfarouqIbrahimF"><img src="https://img.shields.io/badge/Portfolio-artfolio.tech-6C8CFF?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
 
 <img src="assets/tech-marquee.svg" alt="Technologies: Python, C++, TypeScript, Solidity, NumPy, scikit-learn, YOLOv8, BoT-SORT, Re-ID, RAG, local LLMs, FastAPI, React, Streamlit, Jupyter, Blender, FFT, CNN, Edge-AI, Computer Vision, Deep Learning, Compiler Design" width="100%">
