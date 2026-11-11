@@ -16,8 +16,6 @@
 
 <img src="assets/section-about.svg" alt="Section 01: About" width="100%">
 
-<img src="assets/terminal.svg" alt="A Python class describing Alfarouq: role AI System Architect, focus Edge-AI, Computer Vision, ML and Data Science" width="100%">
-
 I design and build AI systems that work in real conditions. My focus is **Edge-AI**, **computer vision** and **machine-learning architecture**: models that run offline, on local hardware, where the data actually is.
 
 I co-founded **Raa'i**, an award-winning offline livestock health-monitoring platform, founded the **ANOMALY** AI community (50+ members), and have worked across four ML internships and trainings in 2026.
@@ -40,8 +38,6 @@ I co-founded **Raa'i**, an award-winning offline livestock health-monitoring pla
 
 ### Raa'i: offline Edge-AI livestock health monitoring
 
-<img src="assets/raai-vision.svg" alt="Illustration: animals detected and tracked with ID boxes next to a bilingual veterinary report being written" width="100%">
-
 <img src="assets/raai-pipeline.svg" alt="Raa'i pipeline: video input, YOLOv8 detection, BoT-SORT and Re-ID tracking, behavior monitoring, offline RAG with a local LLM, bilingual report" width="100%">
 
 | | |
@@ -57,8 +53,6 @@ The pipeline reads left to right: camera frames, detection, per-animal tracking,
 <br>
 
 ### Multi-Modal Edge-AI Inspection System
-
-<img src="assets/inspection-signal.svg" alt="Illustration: a vibration waveform with a burst and a frequency spectrum with one flagged anomaly peak" width="100%">
 
 <img src="assets/inspection-pipeline.svg" alt="Inspection pipeline: synthetic Blender data feeds a NumPy CNN and an FFT anomaly detector, fused into an explainable AI dashboard" width="100%">
 
