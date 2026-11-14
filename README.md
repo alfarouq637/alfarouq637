@@ -5,7 +5,7 @@
 <br>
 
 <a href="https://linkedin.com/in/alfarouq-ibrahim"><img src="https://img.shields.io/badge/LinkedIn-alfarouq--ibrahim-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:alfarwqalfa@gmail.com"><img src="https://img.shields.io/badge/Email-alfarwqalfa@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="mailto:alfarwqabrahym116@gmail.com"><img src="https://img.shields.io/badge/Email-alfarwqabrahym116@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 <a href="https://www.artfolio.tech/AlfarouqIbrahimF"><img src="https://img.shields.io/badge/Portfolio-artfolio.tech-6C8CFF?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
 
 <img src="assets/tech-marquee.svg" alt="Technologies: Python, C++, TypeScript, Solidity, NumPy, scikit-learn, YOLOv8, BoT-SORT, Re-ID, RAG, local LLMs, FastAPI, React, Streamlit, Jupyter, Blender, FFT, CNN, Edge-AI, Computer Vision, Deep Learning, Compiler Design" width="100%">
@@ -15,6 +15,8 @@
 <br>
 
 <img src="assets/section-about.svg" alt="Section 01: About" width="100%">
+
+<img src="assets/terminal.svg" alt="A Python class describing Alfarouq: role AI System Architect, focus Edge-AI, Computer Vision, ML and Data Science" width="100%">
 
 I design and build AI systems that work in real conditions. My focus is **Edge-AI**, **computer vision** and **machine-learning architecture**: models that run offline, on local hardware, where the data actually is.
 
@@ -38,6 +40,8 @@ I co-founded **Raa'i**, an award-winning offline livestock health-monitoring pla
 
 ### Raa'i: offline Edge-AI livestock health monitoring
 
+<img src="assets/raai-vision.svg" alt="Illustration: animals detected and tracked with ID boxes next to a bilingual veterinary report being written" width="100%">
+
 <img src="assets/raai-pipeline.svg" alt="Raa'i pipeline: video input, YOLOv8 detection, BoT-SORT and Re-ID tracking, behavior monitoring, offline RAG with a local LLM, bilingual report" width="100%">
 
 | | |
@@ -53,6 +57,8 @@ The pipeline reads left to right: camera frames, detection, per-animal tracking,
 <br>
 
 ### Multi-Modal Edge-AI Inspection System
+
+<img src="assets/inspection-signal.svg" alt="Illustration: a vibration waveform with a burst and a frequency spectrum with one flagged anomaly peak" width="100%">
 
 <img src="assets/inspection-pipeline.svg" alt="Inspection pipeline: synthetic Blender data feeds a NumPy CNN and an FFT anomaly detector, fused into an explainable AI dashboard" width="100%">
 
