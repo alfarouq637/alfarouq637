@@ -152,6 +152,6 @@ A compiler that translates Arabic linguistic roots and diacritics into memory se
 Open to **AI Architecture** and **Machine Learning Engineering** opportunities. The fastest way to reach me is LinkedIn or email.
 
 <a href="https://linkedin.com/in/alfarouq-ibrahim"><img src="https://img.shields.io/badge/LinkedIn-alfarouq--ibrahim-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:alfarwqabrahym116@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="mailto:alfarwqalfa@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 
 <img src="assets/divider.svg" alt="" width="100%">
